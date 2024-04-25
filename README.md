@@ -12,3 +12,6 @@ Es un programa que recopila datos de antes del 2019 con los repositorios mejores
 6. Esperar a que el programa termine de ejecutarse. Se mostrará un mensaje indicando que los repositorios han sido guardados en un archivo CSV.
 
 7. Puede cambiar el lenguaje en el final del script en el archivo index.js por defecto se usas "Javascript"
+
+
+8. Tenemos un archivo index.html el que puede abrir directamente en tu navegadro web y establecer la busqueda que desee de los repositorios mejor rankeados de github.
